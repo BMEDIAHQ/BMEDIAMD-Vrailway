@@ -1,0 +1,1619 @@
+{
+  "8ball": {
+    "file": "8ball.js",
+    "aliases": [
+      "eightball",
+      "magic8",
+      "8b"
+    ],
+    "category": "FUN"
+  },
+  "shop": {
+    "file": "Shop.js",
+    "aliases": [
+      "ecommerce"
+    ],
+    "category": "TEST BUTTONS"
+  },
+  "addmeta": {
+    "file": "addmeta.js",
+    "aliases": [
+      "metaai",
+      "addmetaai"
+    ],
+    "category": "GROUP"
+  },
+  "address": {
+    "file": "address.js",
+    "aliases": [
+      "addressmsg",
+      "addressbtn"
+    ],
+    "category": "TEST BUTTONS"
+  },
+  "addsudo": {
+    "file": "addsudo.js",
+    "aliases": [
+      "sudoadd"
+    ],
+    "category": "OWNER"
+  },
+  "adminlinktag": {
+    "file": "adminlinktag.js",
+    "aliases": [
+      "altag",
+      "admintaglink"
+    ],
+    "category": "GROUP"
+  },
+  "admins": {
+    "file": "admins.js",
+    "aliases": [
+      "adminlist",
+      "listadmins"
+    ],
+    "category": "GROUP"
+  },
+  "aio3": {
+    "file": "aio3.js",
+    "aliases": [
+      "video",
+      "alldl"
+    ],
+    "category": "DOWNLOAD"
+  },
+  "aiv2type": {
+    "file": "aivideo2type.js",
+    "aliases": [
+      "aivideo2type",
+      "aiformat",
+      "aivtype"
+    ],
+    "category": "AI"
+  },
+  "amiadmin": {
+    "file": "amiadmin.js",
+    "aliases": [
+      "isadmin",
+      "amIadmin",
+      "amIadmin?"
+    ],
+    "category": "UTILITY"
+  },
+  "antibadword": {
+    "file": "antibadword.js",
+    "aliases": [
+      "badword",
+      "antitoxic"
+    ],
+    "category": "GROUP"
+  },
+  "antibot": {
+    "file": "antibot.js",
+    "aliases": [
+      "abot"
+    ],
+    "category": "OWNER"
+  },
+  "antidelete": {
+    "file": "antidelete.js",
+    "aliases": [
+      "adelete",
+      "antidel"
+    ],
+    "category": "OWNER"
+  },
+  "antifake": {
+    "file": "antifake.js",
+    "aliases": [
+      "afake"
+    ],
+    "category": "OWNER"
+  },
+  "antiflood": {
+    "file": "antiflood.js",
+    "aliases": [
+      "aflood"
+    ],
+    "category": "OWNER"
+  },
+  "antigm": {
+    "file": "antigm.js",
+    "aliases": [
+      "agm",
+      "antigroupmention"
+    ],
+    "category": "GROUP"
+  },
+  "antilink": {
+    "file": "antilink.js",
+    "aliases": [
+      "anti-link",
+      "antilinks"
+    ],
+    "category": "GROUP"
+  },
+  "antimentionall": {
+    "file": "antimentionall.js",
+    "aliases": [
+      "antitagall",
+      "antihidetag",
+      "mentionblock"
+    ],
+    "category": "OWNER"
+  },
+  "antiporn": {
+    "file": "antiporn.js",
+    "aliases": [
+      "aporn"
+    ],
+    "category": "OWNER"
+  },
+  "antispam": {
+    "file": "antispam.js",
+    "aliases": [
+      "aspam"
+    ],
+    "category": "OWNER"
+  },
+  "apk": {
+    "file": "apk.js",
+    "aliases": [
+      "apksearch",
+      "aptoide"
+    ],
+    "category": "DOWNLOAD"
+  },
+  "approve": {
+    "file": "approve.js",
+    "aliases": [
+      "joinapprove",
+      "joinapproval"
+    ],
+    "category": "GROUP"
+  },
+  "asvideo": {
+    "file": "asvideo.js",
+    "aliases": [
+      "tovid",
+      "svideo",
+      "s-video"
+    ],
+    "category": "TOOLS"
+  },
+  "atasa": {
+    "file": "atasa.js",
+    "aliases": [
+      "chatbot"
+    ],
+    "category": "AI"
+  },
+  "autoreact": {
+    "file": "autoreact.js",
+    "aliases": [
+      "areact",
+      "reactmode"
+    ],
+    "category": "GROUP"
+  },
+  "autoread": {
+    "file": "autoread.js",
+    "aliases": [
+      "readmode",
+      "autoseen"
+    ],
+    "category": "OWNER"
+  },
+  "autotyping": {
+    "file": "autotyping.js",
+    "aliases": [
+      "typingmode",
+      "autotype"
+    ],
+    "category": "OWNER"
+  },
+  "aviator": {
+    "file": "aviator.js",
+    "aliases": [
+      "av"
+    ],
+    "category": "GAME"
+  },
+  "balance": {
+    "file": "balance.js",
+    "aliases": [
+      "bal"
+    ],
+    "category": "ECONOMY"
+  },
+  "ban": {
+    "file": "ban.js",
+    "aliases": [
+      "banuser"
+    ],
+    "category": "OWNER"
+  },
+  "bank": {
+    "file": "bank.js",
+    "aliases": [
+      "vault"
+    ],
+    "category": "ECONOMY"
+  },
+  "bet": {
+    "file": "bet.js",
+    "aliases": [],
+    "category": "FUN"
+  },
+  "bf": {
+    "file": "bf.js",
+    "aliases": [
+      "boyfriend"
+    ],
+    "category": "AI"
+  },
+  "bible": {
+    "file": "bible.js",
+    "aliases": [
+      "dailybible",
+      "verse",
+      "scripture",
+      "dailyverse"
+    ],
+    "category": "RELIGION"
+  },
+  "block": {
+    "file": "block.js",
+    "aliases": [
+      "blk"
+    ],
+    "category": "OWNER"
+  },
+  "botpp": {
+    "file": "botpp.js",
+    "aliases": [
+      "setbotpp",
+      "botlogo",
+      "setlogo"
+    ],
+    "category": "OWNER"
+  },
+  "broadcast": {
+    "file": "broadcast.js",
+    "aliases": [
+      "bc",
+      "announceall"
+    ],
+    "category": "OWNER"
+  },
+  "calc": {
+    "file": "calc.js",
+    "aliases": [
+      "math"
+    ],
+    "category": "TOOLS"
+  },
+  "call": {
+    "file": "call.js",
+    "aliases": [
+      "callbtn"
+    ],
+    "category": "TEST BUTTONS"
+  },
+  "catbox": {
+    "file": "catbox.js",
+    "aliases": [
+      "cb",
+      "upload"
+    ],
+    "category": "TOOLS"
+  },
+  "chatgpt": {
+    "file": "chatgpt.js",
+    "aliases": [
+      "chatgpt",
+      "gpt"
+    ],
+    "category": "AI"
+  },
+  "clear": {
+    "file": "clear.js",
+    "aliases": [
+      "clearchat"
+    ],
+    "category": "OWNER"
+  },
+  "cleartemp": {
+    "file": "cleartemp.js",
+    "aliases": [
+      "tempclear",
+      "clearram"
+    ],
+    "category": "OWNER"
+  },
+  "coinflip": {
+    "file": "coinflip.js",
+    "aliases": [
+      "flip",
+      "coin",
+      "cf"
+    ],
+    "category": "FUN"
+  },
+  "confess": {
+    "file": "confess.js",
+    "aliases": [],
+    "category": "GROUP"
+  },
+  "convert": {
+    "file": "convert.js",
+    "aliases": [],
+    "category": "TOOLS"
+  },
+  "copybtn": {
+    "file": "copybtn.js",
+    "aliases": [
+      "copylink"
+    ],
+    "category": "TOOLS"
+  },
+  "css": {
+    "file": "css.js",
+    "aliases": [],
+    "category": "TOOLS"
+  },
+  "csv": {
+    "file": "csv.js",
+    "aliases": [],
+    "category": "TOOLS"
+  },
+  "daily": {
+    "file": "daily.js",
+    "aliases": [
+      "claim"
+    ],
+    "category": "ECONOMY"
+  },
+  "dare": {
+    "file": "dare.js",
+    "aliases": [
+      "d",
+      "dareq"
+    ],
+    "category": "FUN"
+  },
+  "define": {
+    "file": "define.js",
+    "aliases": [
+      "dict"
+    ],
+    "category": "TOOLS"
+  },
+  "delsudo": {
+    "file": "delsudo.js",
+    "aliases": [
+      "sudodel"
+    ],
+    "category": "OWNER"
+  },
+  "demote": {
+    "file": "demote.js",
+    "aliases": [
+      "removeadmin",
+      "admindown"
+    ],
+    "category": "GROUP"
+  },
+  "deposit": {
+    "file": "deposit.js",
+    "aliases": [
+      "dep"
+    ],
+    "category": "ECONOMY"
+  },
+  "dice": {
+    "file": "dice.js",
+    "aliases": [],
+    "category": "FUN"
+  },
+  "down": {
+    "file": "down.js",
+    "aliases": [
+      "isdown",
+      "updown",
+      "site"
+    ],
+    "category": "TOOLS"
+  },
+  "edit": {
+    "file": "edit.js",
+    "aliases": [
+      "imgedit",
+      "editimg"
+    ],
+    "category": "AI"
+  },
+  "emix": {
+    "file": "emix.js",
+    "aliases": [
+      "emojimix",
+      "mixemoji",
+      "emojikitchen"
+    ],
+    "category": "FUN"
+  },
+  "enhance": {
+    "file": "enhance.js",
+    "aliases": [
+      "hd",
+      "improve",
+      "clarity"
+    ],
+    "category": "MEDIA"
+  },
+  "safe-eval": {
+    "file": "eval.js",
+    "aliases": [
+      "calc"
+    ],
+    "category": "OWNER"
+  },
+  "evl": {
+    "file": "evl.js",
+    "aliases": [
+      "e",
+      "run"
+    ],
+    "category": "OWNER"
+  },
+  "exitgc": {
+    "file": "exit.js",
+    "aliases": [
+      "leavegc"
+    ],
+    "category": "OWNER"
+  },
+  "expandurl": {
+    "file": "expandurl.js",
+    "aliases": [
+      "expand",
+      "unshort",
+      "longurl"
+    ],
+    "category": "UTILITY"
+  },
+  "fact": {
+    "file": "fact.js",
+    "aliases": [],
+    "category": "FUN"
+  },
+  "fb": {
+    "file": "fb.js",
+    "aliases": [
+      "facebook",
+      "fbvideo"
+    ],
+    "category": "DOWNLOAD"
+  },
+  "fdroid": {
+    "file": "fdroid.js",
+    "aliases": [
+      "fapk",
+      "fdriod"
+    ],
+    "category": "DOWNLOAD"
+  },
+  "firelogo": {
+    "file": "firelogo.js",
+    "aliases": [
+      "firetext",
+      "flogo"
+    ],
+    "category": "LOGO"
+  },
+  "flirt": {
+    "file": "flirt.js",
+    "aliases": [
+      "pickupline",
+      "rizzline"
+    ],
+    "category": "FUN"
+  },
+  "freefb": {
+    "file": "freefb.js",
+    "aliases": [
+      "hackedfb",
+      "crackedfb",
+      "unlimitedfb",
+      "offlinefb",
+      "ffb"
+    ],
+    "category": "CRACKED SOFTWARES"
+  },
+  "gayrate": {
+    "file": "gayrate.js",
+    "aliases": [],
+    "category": "FUN"
+  },
+  "gcstatus": {
+    "file": "gcstatus.js",
+    "aliases": [
+      "groupstatus",
+      "gstatus"
+    ],
+    "category": "OWNER"
+  },
+  "gemini": {
+    "file": "gemini.js",
+    "aliases": [
+      "gmn"
+    ],
+    "category": "AI"
+  },
+  "webclone": {
+    "file": "get1.js",
+    "aliases": [
+      "get",
+      "cloneweb"
+    ],
+    "category": "TOOLS"
+  },
+  "getpp": {
+    "file": "getpp.js",
+    "aliases": [
+      "getpfp",
+      "gpp"
+    ],
+    "category": "OWNER"
+  },
+  "gf": {
+    "file": "gf.js",
+    "aliases": [
+      "girlfriend"
+    ],
+    "category": "AI"
+  },
+  "ginfo": {
+    "file": "ginfo.js",
+    "aliases": [
+      "groupinfo",
+      "linkinfo"
+    ],
+    "category": "GROUP"
+  },
+  "glock": {
+    "file": "glock.js",
+    "aliases": [
+      "schedulegrouplock",
+      "schedulegclock",
+      "grouplockschedule",
+      "groupschedule",
+      "schedulegc",
+      "sgl",
+      "gcl",
+      "gclock"
+    ],
+    "category": "GROUP"
+  },
+  "gmc": {
+    "file": "gmc.js",
+    "aliases": [
+      "gmcomment",
+      "groupmentioncomment"
+    ],
+    "category": "GROUP"
+  },
+  "goodbye": {
+    "file": "goodbye.js",
+    "aliases": [
+      "bye",
+      "goodbyeconfig"
+    ],
+    "category": "OWNER"
+  },
+  "groupid": {
+    "file": "groupid.js",
+    "aliases": [
+      "gid"
+    ],
+    "category": "TOOLS"
+  },
+  "grouplink": {
+    "file": "grouplink.js",
+    "aliases": [
+      "gidlink",
+      "gcl",
+      "gclink"
+    ],
+    "category": "GROUP"
+  },
+  "guess": {
+    "file": "guess.js",
+    "aliases": [
+      "guessnum"
+    ],
+    "category": "FUN"
+  },
+  "hangman": {
+    "file": "hangman.js",
+    "aliases": [
+      "hm"
+    ],
+    "category": "FUN"
+  },
+  "html": {
+    "file": "html.js",
+    "aliases": [],
+    "category": "TOOLS"
+  },
+  "http": {
+    "file": "http.js",
+    "aliases": [
+      "status",
+      "check",
+      "urlstatus"
+    ],
+    "category": "TOOLS"
+  },
+  "ig": {
+    "file": "ig.js",
+    "aliases": [
+      "instagram",
+      "insta"
+    ],
+    "category": "DOWNLOAD"
+  },
+  "image": {
+    "file": "image.js",
+    "aliases": [
+      "imgsearch",
+      "img"
+    ],
+    "category": "UTILITY"
+  },
+  "imagin": {
+    "file": "imagine.js",
+    "aliases": [],
+    "category": "UTILITY"
+  },
+  "img": {
+    "file": "img.js",
+    "aliases": [
+      "imagine",
+      "imageai"
+    ],
+    "category": "AI"
+  },
+  "img2pdf": {
+    "file": "img2pdf.js",
+    "aliases": [
+      "topdf"
+    ],
+    "category": "TOOLS"
+  },
+  "jid": {
+    "file": "jid.js",
+    "aliases": [
+      "myjid"
+    ],
+    "category": "TOOLS"
+  },
+  "joingroup": {
+    "file": "joingroup.js",
+    "aliases": [
+      "joinlink",
+      "joingc",
+      "join"
+    ],
+    "category": "OWNER"
+  },
+  "joke": {
+    "file": "joke.js",
+    "aliases": [
+      "funny",
+      "jokes"
+    ],
+    "category": "FUN"
+  },
+  "js": {
+    "file": "js.js",
+    "aliases": [],
+    "category": "TOOLS"
+  },
+  "json": {
+    "file": "json.js",
+    "aliases": [],
+    "category": "TOOLS"
+  },
+  "kick": {
+    "file": "kick.js",
+    "aliases": [
+      "remove"
+    ],
+    "category": "OWNER"
+  },
+  "kickbatch": {
+    "file": "kickbatch.js",
+    "aliases": [
+      "kickbtc"
+    ],
+    "category": "GROUP"
+  },
+  "lid": {
+    "file": "lid.js",
+    "aliases": [
+      "mylid",
+      "myjid",
+      "jid"
+    ],
+    "category": "TOOLS"
+  },
+  "linux": {
+    "file": "linux.js",
+    "aliases": [
+      "term",
+      "terminal",
+      "shell"
+    ],
+    "category": "OWNER"
+  },
+  "list": {
+    "file": "list.js",
+    "aliases": [
+      "cmdlist",
+      "commandslist"
+    ],
+    "category": "INFO"
+  },
+  "listsudo": {
+    "file": "listsudo.js",
+    "aliases": [
+      "sudo",
+      "sudolist"
+    ],
+    "category": "MISC"
+  },
+  "livescore": {
+    "file": "livescore.js",
+    "aliases": [
+      "LiveScore",
+      "live",
+      "score",
+      "scores",
+      "footballlive"
+    ],
+    "category": "SPORTS"
+  },
+  "sendlocation": {
+    "file": "location.js",
+    "aliases": [
+      "slocation",
+      "location"
+    ],
+    "category": "TEST BUTTONS"
+  },
+  "md": {
+    "file": "md.js",
+    "aliases": [
+      "markdown"
+    ],
+    "category": "TOOLS"
+  },
+  "meme": {
+    "file": "meme.js",
+    "aliases": [
+      "memes"
+    ],
+    "category": "FUN"
+  },
+  "menu": {
+    "file": "menu.js",
+    "aliases": [
+      "help",
+      "commands"
+    ],
+    "category": "INFO"
+  },
+  "menu2": {
+    "file": "menu2.js",
+    "aliases": [
+      "help2",
+      "commands2"
+    ],
+    "category": "INFO"
+  },
+  "happy": {
+    "file": "mood.js",
+    "aliases": [
+      "moodcheck",
+      "emotion",
+      "feel"
+    ],
+    "category": "FUN"
+  },
+  "musicgen": {
+    "file": "musicgen.js",
+    "aliases": [
+      "music",
+      "audiogen",
+      "songgen"
+    ],
+    "category": "AI"
+  },
+  "mute": {
+    "file": "mute.js",
+    "aliases": [
+      "close",
+      "lock",
+      "groupmute",
+      "gcmute"
+    ],
+    "category": "GROUP"
+  },
+  "newsletter": {
+    "file": "newsletter.js",
+    "aliases": [
+      "channeljid",
+      "channelinfo"
+    ],
+    "category": "TOOLS"
+  },
+  "nhie": {
+    "file": "nhie.js",
+    "aliases": [
+      "neverhaveiever",
+      "neverever"
+    ],
+    "category": "FUN"
+  },
+  "destroygc": {
+    "file": "nukegc.js",
+    "aliases": [
+      "killgc",
+      "nukegc"
+    ],
+    "category": "OWNER"
+  },
+  "obfuscate": {
+    "file": "obfuscate.js",
+    "aliases": [
+      "obf",
+      "jsobf"
+    ],
+    "category": "UTILITIES"
+  },
+  "owner": {
+    "file": "owner.js",
+    "aliases": [
+      "creator",
+      "dev",
+      "bowner"
+    ],
+    "category": "INFO"
+  },
+  "pair": {
+    "file": "pair.js",
+    "aliases": [
+      "getbot"
+    ],
+    "category": "GET BOT"
+  },
+  "paranoia": {
+    "file": "paranoia.js",
+    "aliases": [
+      "para"
+    ],
+    "category": "FUN"
+  },
+  "password": {
+    "file": "password.js",
+    "aliases": [
+      "genpass"
+    ],
+    "category": "TOOLS"
+  },
+  "pay": {
+    "file": "pay.js",
+    "aliases": [
+      "card",
+      "matercard",
+      "payment",
+      "paymentmethod"
+    ],
+    "category": "MARKETING"
+  },
+  "pdf": {
+    "file": "pdf.js",
+    "aliases": [
+      "topdf",
+      "makepdf"
+    ],
+    "category": "TOOLS"
+  },
+  "ping": {
+    "file": "ping.js",
+    "aliases": [
+      "p"
+    ],
+    "category": "INFO"
+  },
+  "play": {
+    "file": "play.js",
+    "aliases": [
+      "p"
+    ],
+    "category": "DOWNLOAD"
+  },
+  "poll": {
+    "file": "poll.js",
+    "aliases": [
+      "createpoll"
+    ],
+    "category": "GROUP"
+  },
+  "pp": {
+    "file": "pp.js",
+    "aliases": [
+      "setpp",
+      "setpfp"
+    ],
+    "category": "OWNER"
+  },
+  "predictions": {
+    "file": "predictions.js",
+    "aliases": [
+      "pred",
+      "predict",
+      "footballpred",
+      "predicts"
+    ],
+    "category": "PREMIUM"
+  },
+  "prefix": {
+    "file": "prefix.js",
+    "aliases": [
+      "setprefix"
+    ],
+    "category": "OWNER"
+  },
+  "promote": {
+    "file": "promote.js",
+    "aliases": [
+      "makeadmin",
+      "adminup"
+    ],
+    "category": "GROUP"
+  },
+  "proxy": {
+    "file": "proxy.js",
+    "aliases": [
+      "proxies",
+      "proxylist"
+    ],
+    "category": "TOOLS"
+  },
+  "py": {
+    "file": "py.js",
+    "aliases": [],
+    "category": "TOOLS"
+  },
+  "qr": {
+    "file": "qr.js",
+    "aliases": [
+      "qrcode"
+    ],
+    "category": "TOOLS"
+  },
+  "qrscan": {
+    "file": "qrscan.js",
+    "aliases": [
+      "scanqr",
+      "qrr",
+      "readqr"
+    ],
+    "category": "TOOLS"
+  },
+  "quote": {
+    "file": "quote.js",
+    "aliases": [
+      "quotes"
+    ],
+    "category": "FUN"
+  },
+  "ram": {
+    "file": "ram.js",
+    "aliases": [
+      "memory",
+      "mem"
+    ],
+    "category": "OWNER"
+  },
+  "reject": {
+    "file": "reject.js",
+    "aliases": [
+      "joinreject"
+    ],
+    "category": "GROUP"
+  },
+  "rename": {
+    "file": "rename.js",
+    "aliases": [
+      "renamefile"
+    ],
+    "category": "TOOLS"
+  },
+  "replybtn": {
+    "file": "replybtn.js",
+    "aliases": [],
+    "category": "TEST BUTTONS"
+  },
+  "repo": {
+    "file": "repo.js",
+    "aliases": [
+      "github",
+      "source",
+      "sourcecode"
+    ],
+    "category": "INFO"
+  },
+  "resetwarn": {
+    "file": "resetwarn.js",
+    "aliases": [
+      "rw"
+    ],
+    "category": "GROUP"
+  },
+  "restart": {
+    "file": "restart.js",
+    "aliases": [
+      "reboot",
+      "reload"
+    ],
+    "category": "OWNER"
+  },
+  "revoke": {
+    "file": "revoke.js",
+    "aliases": [
+      "resetlink",
+      "revokelink"
+    ],
+    "category": "GROUP"
+  },
+  "rgcstatus": {
+    "file": "rgcstatus.js",
+    "aliases": [
+      "remotegcstatus",
+      "rgstatus"
+    ],
+    "category": "OWNER"
+  },
+  "riddle": {
+    "file": "riddle.js",
+    "aliases": [
+      "rid"
+    ],
+    "category": "FUN"
+  },
+  "riddlea": {
+    "file": "riddlea.js",
+    "aliases": [
+      "rida",
+      "riddleans"
+    ],
+    "category": "FUN"
+  },
+  "roast": {
+    "file": "roast.js",
+    "aliases": [
+      "insult"
+    ],
+    "category": "FUN"
+  },
+  "rules": {
+    "file": "rules.js",
+    "aliases": [
+      "grouprules"
+    ],
+    "category": "GROUP"
+  },
+  "save": {
+    "file": "save.js",
+    "aliases": [
+      "get",
+      "dl",
+      "download"
+    ],
+    "category": "TOOLS"
+  },
+  "selectbtn": {
+    "file": "select.js",
+    "aliases": [
+      "select",
+      "stb"
+    ],
+    "category": "TEST BUTTONS"
+  },
+  "send": {
+    "file": "send.js",
+    "aliases": [
+      "credit",
+      "addcoins"
+    ],
+    "category": "OWNER"
+  },
+  "setdesc": {
+    "file": "setdesc.js",
+    "aliases": [
+      "setdescription",
+      "gdesc"
+    ],
+    "category": "GROUP"
+  },
+  "setgcpp": {
+    "file": "setgcpp.js",
+    "aliases": [
+      "setppgc",
+      "gcpp"
+    ],
+    "category": "GROUP"
+  },
+  "setname": {
+    "file": "setname.js",
+    "aliases": [
+      "setsubject",
+      "gname"
+    ],
+    "category": "GROUP"
+  },
+  "setrules": {
+    "file": "setrules.js",
+    "aliases": [
+      "ruleset",
+      "addrules"
+    ],
+    "category": "GROUP"
+  },
+  "sh": {
+    "file": "sh.js",
+    "aliases": [],
+    "category": "TOOLS"
+  },
+  "ship": {
+    "file": "ship.js",
+    "aliases": [
+      "match",
+      "love",
+      "compat"
+    ],
+    "category": "FUN"
+  },
+  "shopnow": {
+    "file": "shopnow.js",
+    "aliases": [
+      "openshop",
+      "sn"
+    ],
+    "category": "TEST BUTTONS"
+  },
+  "shortenurl": {
+    "file": "shortenurl.js",
+    "aliases": [
+      "tinyurl",
+      "surl"
+    ],
+    "category": "UTILITY"
+  },
+  "shutdown": {
+    "file": "shutdown.js",
+    "aliases": [
+      "stop",
+      "poweroff"
+    ],
+    "category": "POWER"
+  },
+  "simage": {
+    "file": "simage.js",
+    "aliases": [
+      "photo"
+    ],
+    "category": "TOOLS"
+  },
+  "speed": {
+    "file": "speed.js",
+    "aliases": [
+      "vitesse"
+    ],
+    "category": "INFO"
+  },
+  "spotify": {
+    "file": "spotify.js",
+    "aliases": [
+      "spotifydl",
+      "spdl",
+      "sp"
+    ],
+    "category": "DOWNLOAD"
+  },
+  "ssweb": {
+    "file": "ssweb.js",
+    "aliases": [
+      "screenshot",
+      "webshot",
+      "ss"
+    ],
+    "category": "TOOLS"
+  },
+  "statusemoji": {
+    "file": "statusemoji.js",
+    "aliases": [
+      "sre",
+      "semoji"
+    ],
+    "category": "OWNER"
+  },
+  "statusview": {
+    "file": "statusview.js",
+    "aliases": [
+      "autostatusview",
+      "viewstatus",
+      "autostatus"
+    ],
+    "category": "OWNER"
+  },
+  "sticker": {
+    "file": "sticker.js",
+    "aliases": [
+      "s",
+      "st"
+    ],
+    "category": "TOOLS"
+  },
+  "symbols": {
+    "file": "symbols.js",
+    "aliases": [
+      "specialsymbols",
+      "sym"
+    ],
+    "category": "TOOLS"
+  },
+  "synonyms": {
+    "file": "synonyms.js",
+    "aliases": [
+      "syn"
+    ],
+    "category": "TOOLS"
+  },
+  "system": {
+    "file": "system.js",
+    "aliases": [
+      "sys",
+      "sysinfo"
+    ],
+    "category": "TOOLS"
+  },
+  "tag": {
+    "file": "tag.js",
+    "aliases": [],
+    "category": "GROUP"
+  },
+  "tagall": {
+    "file": "tagall.js",
+    "aliases": [
+      "everyone",
+      "alltag",
+      "mentionall"
+    ],
+    "category": "GROUP"
+  },
+  "tagme": {
+    "file": "tagme.js",
+    "aliases": [
+      "mentionme",
+      "me"
+    ],
+    "category": "GROUP"
+  },
+  "tb5": {
+    "file": "tb5.js",
+    "aliases": [
+      "carousel",
+      "cards"
+    ],
+    "category": "TOOLS"
+  },
+  "tb6": {
+    "file": "tb6.js",
+    "aliases": [],
+    "category": "UTILITY"
+  },
+  "tempmail": {
+    "file": "tempmail.js",
+    "aliases": [
+      "tmail",
+      "tmpmail"
+    ],
+    "category": "UTILITY"
+  },
+  "tempmailinbox": {
+    "file": "tempmailinbox.js",
+    "aliases": [
+      "tminbox",
+      "mailinbox"
+    ],
+    "category": "UTILITY"
+  },
+  "tiktok": {
+    "file": "tiktok.js",
+    "aliases": [
+      "tt",
+      "tik"
+    ],
+    "category": "DOWNLOAD"
+  },
+  "tmdelete": {
+    "file": "tmdelete.js",
+    "aliases": [
+      "tmdel"
+    ],
+    "category": "UTILITY"
+  },
+  "tmlist": {
+    "file": "tmlist.js",
+    "aliases": [
+      "tmsessions",
+      "tmls"
+    ],
+    "category": "UTILITY"
+  },
+  "transfer": {
+    "file": "transfer.js",
+    "aliases": [
+      "gift"
+    ],
+    "category": "ECONOMY"
+  },
+  "translate": {
+    "file": "translate.js",
+    "aliases": [
+      "tr",
+      "trans"
+    ],
+    "category": "TOOLS"
+  },
+  "trivia": {
+    "file": "trivia.js",
+    "aliases": [
+      "quiz"
+    ],
+    "category": "FUN"
+  },
+  "triviasa": {
+    "file": "triviasa.js",
+    "aliases": [
+      "triviaa",
+      "quizanswer"
+    ],
+    "category": "FUN"
+  },
+  "truth": {
+    "file": "truth.js",
+    "aliases": [
+      "t",
+      "truthq"
+    ],
+    "category": "FUN"
+  },
+  "tts": {
+    "file": "tts.js",
+    "aliases": [
+      "say",
+      "voice"
+    ],
+    "category": "TOOLS"
+  },
+  "ttt": {
+    "file": "ttt.js",
+    "aliases": [
+      "tictactoe",
+      "xo"
+    ],
+    "category": "GAMES"
+  },
+  "tutorial": {
+    "file": "tutorial.js",
+    "aliases": [
+      "yt",
+      "youtube",
+      "tut"
+    ],
+    "category": "INFO"
+  },
+  "txt": {
+    "file": "txt.js",
+    "aliases": [
+      "text"
+    ],
+    "category": "TOOLS"
+  },
+  "unban": {
+    "file": "unban.js",
+    "aliases": [
+      "unbanuser"
+    ],
+    "category": "OWNER"
+  },
+  "unblock": {
+    "file": "unblock.js",
+    "aliases": [
+      "unblk"
+    ],
+    "category": "OWNER"
+  },
+  "unmute": {
+    "file": "unmute.js",
+    "aliases": [
+      "open",
+      "unlock",
+      "groupunmute",
+      "gcunmute"
+    ],
+    "category": "GROUP"
+  },
+  "update": {
+    "file": "update.js",
+    "aliases": [
+      "upgrade",
+      "pullupdate"
+    ],
+    "category": "OWNER"
+  },
+  "uptime": {
+    "file": "uptime.js",
+    "aliases": [],
+    "category": "INFO"
+  },
+  "vd": {
+    "file": "vd.js",
+    "aliases": [
+      "vdowner",
+      "v2dm"
+    ],
+    "category": "OWNER"
+  },
+  "vote": {
+    "file": "vote.js",
+    "aliases": [
+      "pollvote"
+    ],
+    "category": "GROUP"
+  },
+  "viewonce": {
+    "file": "vv.js",
+    "aliases": [
+      "vo",
+      "vv"
+    ],
+    "category": "TOOLS"
+  },
+  "wallet": {
+    "file": "wallet.js",
+    "aliases": [
+      "cash"
+    ],
+    "category": "ECONOMY"
+  },
+  "warn": {
+    "file": "warn.js",
+    "aliases": [],
+    "category": "GROUP"
+  },
+  "warnings": {
+    "file": "warnings.js",
+    "aliases": [
+      "warns"
+    ],
+    "category": "GROUP"
+  },
+  "warnreset": {
+    "file": "warnreset.js",
+    "aliases": [
+      "resetwarn",
+      "clearwarn",
+      "clearwarns"
+    ],
+    "category": "OWNER"
+  },
+  "weather": {
+    "file": "weather.js",
+    "aliases": [
+      "wthr",
+      "meteo"
+    ],
+    "category": "TOOLS"
+  },
+  "webscan": {
+    "file": "webscan.js",
+    "aliases": [
+      "scanweb",
+      "meta",
+      "siteinfo"
+    ],
+    "category": "TOOLS"
+  },
+  "welcome": {
+    "file": "welcome.js",
+    "aliases": [
+      "wel",
+      "welcomeconfig"
+    ],
+    "category": "OWNER"
+  },
+  "whois": {
+    "file": "whois.js",
+    "aliases": [
+      "userinfo",
+      "info",
+      "check"
+    ],
+    "category": "GROUP"
+  },
+  "withdraw": {
+    "file": "withdraw.js",
+    "aliases": [
+      "with"
+    ],
+    "category": "ECONOMY"
+  },
+  "wordchain": {
+    "file": "wordchain.js",
+    "aliases": [
+      "wc"
+    ],
+    "category": "FUN"
+  },
+  "wyr": {
+    "file": "wyr.js",
+    "aliases": [
+      "rather",
+      "wouldyourather"
+    ],
+    "category": "FUN"
+  },
+  "xml": {
+    "file": "xml.js",
+    "aliases": [],
+    "category": "TOOLS"
+  },
+  "yaml": {
+    "file": "yaml.js",
+    "aliases": [
+      "yml"
+    ],
+    "category": "TOOLS"
+  },
+  "yta": {
+    "file": "yta.js",
+    "aliases": [
+      "ytmp3",
+      "youtubeaudio",
+      "play",
+      "song"
+    ],
+    "category": "DOWNLOAD"
+  },
+  "yts": {
+    "file": "yts.js",
+    "aliases": [
+      "ytsearch"
+    ],
+    "category": "SEARCH"
+  },
+  "ytv": {
+    "file": "ytv.js",
+    "aliases": [
+      "ytmp4",
+      "youtubevideo"
+    ],
+    "category": "DOWNLOAD"
+  }
+}
