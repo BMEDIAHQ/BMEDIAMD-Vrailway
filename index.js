@@ -131,6 +131,9 @@ let authSyncTimer = null;
 let runtimeSyncTimer = null;
 let runtimeStateRestored = false;
 let whatsappConnected = false;
+// Never push restored auth back to MongoDB until WhatsApp has accepted it at least once.
+// This prevents a failed startup/pairing fallback from corrupting a good SESSION_ID snapshot.
+let authPersistenceArmed = false;
 let healthServer = null;
 
 // Loaded commands cache (name/alias -> command module object)
@@ -165,7 +168,7 @@ function mongoSessionReady() {
 }
 
 function scheduleAuthSync(delay = SESSION_SYNC_DEBOUNCE_MS) {
-  if (!mongoSessionReady()) return;
+  if (!mongoSessionReady() || !authPersistenceArmed) return;
   if (authSyncTimer) clearTimeout(authSyncTimer);
   authSyncTimer = setTimeout(async () => {
     authSyncTimer = null;
@@ -915,6 +918,8 @@ if (
 
 const { state, saveCreds } = await useMultiFileAuthState(AUTH_DIR);
 
+  log(`🔐 Auth state registered: ${state?.creds?.registered === true ? "yes" : "no"}`);
+
     
   const { version } = await fetchLatestBaileysVersion();
 
@@ -948,6 +953,7 @@ const { state, saveCreds } = await useMultiFileAuthState(AUTH_DIR);
     if (connection === "open") {
       pairingRequested = false;
       whatsappConnected = true;
+      authPersistenceArmed = true;
       log("✅ Connected");
       scheduleAuthSync(250);
       scheduleRuntimeStateSync(750);
@@ -972,6 +978,16 @@ const { state, saveCreds } = await useMultiFileAuthState(AUTH_DIR);
     }
 
     if (!sock?.authState?.creds?.registered && !pairingRequested) {
+      // A cloud deployment that already has SESSION_ID must never generate a new
+      // pairing code automatically. requestPairingCode() mutates the auth creds,
+      // which can destroy the restored session snapshot if startup validation fails.
+      if (SESSION_ID) {
+        pairingRequested = true; // suppress repeated warnings for this socket
+        log("⚠️ Restored SESSION_ID is not registered/accepted; automatic re-pairing is disabled.");
+        log("⚠️ If this persists after a clean redeploy, create a fresh SESSION_ID with the pairing service.");
+        return;
+      }
+
       await prepareOwnerNumberIfMissing();
 
       async function requestPairingCodeOnce() {
