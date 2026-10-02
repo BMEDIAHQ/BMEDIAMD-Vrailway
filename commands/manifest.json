@@ -8,13 +8,6 @@
     ],
     "category": "FUN"
   },
-  "shop": {
-    "file": "Shop.js",
-    "aliases": [
-      "ecommerce"
-    ],
-    "category": "TEST BUTTONS"
-  },
   "addmeta": {
     "file": "addmeta.js",
     "aliases": [
@@ -411,6 +404,14 @@
     ],
     "category": "ECONOMY"
   },
+  "destroygc": {
+    "file": "nukegc.js",
+    "aliases": [
+      "killgc",
+      "nukegc"
+    ],
+    "category": "OWNER"
+  },
   "dice": {
     "file": "dice.js",
     "aliases": [],
@@ -450,13 +451,6 @@
       "clarity"
     ],
     "category": "MEDIA"
-  },
-  "safe-eval": {
-    "file": "eval.js",
-    "aliases": [
-      "calc"
-    ],
-    "category": "OWNER"
   },
   "evl": {
     "file": "evl.js",
@@ -550,14 +544,6 @@
     ],
     "category": "AI"
   },
-  "webclone": {
-    "file": "get1.js",
-    "aliases": [
-      "get",
-      "cloneweb"
-    ],
-    "category": "TOOLS"
-  },
   "getpp": {
     "file": "getpp.js",
     "aliases": [
@@ -641,9 +627,22 @@
     ],
     "category": "FUN"
   },
+  "happy": {
+    "file": "mood.js",
+    "aliases": [
+      "moodcheck",
+      "emotion",
+      "feel"
+    ],
+    "category": "FUN"
+  },
   "html": {
     "file": "html.js",
-    "aliases": [],
+    "aliases": [
+      "renderhtml",
+      "html2img",
+      "html2image"
+    ],
     "category": "TOOLS"
   },
   "http": {
@@ -784,14 +783,6 @@
     ],
     "category": "SPORTS"
   },
-  "sendlocation": {
-    "file": "location.js",
-    "aliases": [
-      "slocation",
-      "location"
-    ],
-    "category": "TEST BUTTONS"
-  },
   "md": {
     "file": "md.js",
     "aliases": [
@@ -821,15 +812,6 @@
       "commands2"
     ],
     "category": "INFO"
-  },
-  "happy": {
-    "file": "mood.js",
-    "aliases": [
-      "moodcheck",
-      "emotion",
-      "feel"
-    ],
-    "category": "FUN"
   },
   "musicgen": {
     "file": "musicgen.js",
@@ -865,14 +847,6 @@
       "neverever"
     ],
     "category": "FUN"
-  },
-  "destroygc": {
-    "file": "nukegc.js",
-    "aliases": [
-      "killgc",
-      "nukegc"
-    ],
-    "category": "OWNER"
   },
   "obfuscate": {
     "file": "obfuscate.js",
@@ -1116,6 +1090,13 @@
     ],
     "category": "GROUP"
   },
+  "safe-eval": {
+    "file": "eval.js",
+    "aliases": [
+      "calc"
+    ],
+    "category": "OWNER"
+  },
   "save": {
     "file": "save.js",
     "aliases": [
@@ -1140,6 +1121,14 @@
       "addcoins"
     ],
     "category": "OWNER"
+  },
+  "sendlocation": {
+    "file": "location.js",
+    "aliases": [
+      "slocation",
+      "location"
+    ],
+    "category": "TEST BUTTONS"
   },
   "setdesc": {
     "file": "setdesc.js",
@@ -1186,6 +1175,13 @@
       "compat"
     ],
     "category": "FUN"
+  },
+  "shop": {
+    "file": "Shop.js",
+    "aliases": [
+      "ecommerce"
+    ],
+    "category": "TEST BUTTONS"
   },
   "shopnow": {
     "file": "shopnow.js",
@@ -1480,13 +1476,6 @@
     ],
     "category": "OWNER"
   },
-  "vote": {
-    "file": "vote.js",
-    "aliases": [
-      "pollvote"
-    ],
-    "category": "GROUP"
-  },
   "viewonce": {
     "file": "vv.js",
     "aliases": [
@@ -1494,6 +1483,13 @@
       "vv"
     ],
     "category": "TOOLS"
+  },
+  "vote": {
+    "file": "vote.js",
+    "aliases": [
+      "pollvote"
+    ],
+    "category": "GROUP"
   },
   "wallet": {
     "file": "wallet.js",
@@ -1528,6 +1524,14 @@
     "aliases": [
       "wthr",
       "meteo"
+    ],
+    "category": "TOOLS"
+  },
+  "webclone": {
+    "file": "get1.js",
+    "aliases": [
+      "get",
+      "cloneweb"
     ],
     "category": "TOOLS"
   },
